@@ -41,6 +41,30 @@ to
 [announce@tensorflow.org](https://groups.google.com/a/tensorflow.org/forum/#!forum/announce).
 See all the [mailing lists](https://www.tensorflow.org/community/forums).
 
+## Authors
+*   Google Inc.
+*   Yuan Tang <terrytangyuan@gmail.com>
+*   Arm Ltd
+
+## TensorFlow Support
+There are a variety of grants that can be provided to developers who support projects that advance the TensorFlow ecosystem.
+Some of these can include:
+*   TensorFlow Developer Grants
+*   Research Grants and Scholarships
+*   Machine Learning and AI Research Grants
+
+TensorFlow AI Service Partners are experienced in creating a range of consulting and software solutions powered
+by TensorFlow and other frameworks that span across the machine learning workflow,
+including preparing and ingesting data, training and optimizing models, and productionizing them.
+Some of the partners are:
+*   Determined AI
+*   Labelbox
+*   Paperspace
+*   SpringML
+*   Stradigi AI
+*   Quantiphi
+
+
 ## Install
 
 See the [TensorFlow install guide](https://www.tensorflow.org/install) for the
